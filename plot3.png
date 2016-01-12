@@ -1,0 +1,4 @@
+git add plot3.png
+git commit -m 'add png file'
+git remote add origin https://github.com/hannyhus/ExData_Plotting1.git
+git push -u origin master
